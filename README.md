@@ -1,0 +1,8 @@
+# SociaMediaApp[V Social Media App presentation.pptx](https://github.com/vishvadeep-chauhan/SociaMediaApp/files/9143501/V.Social.Media.App.presentation.pptx)
+![home screen](https://user-images.githubusercontent.com/78551786/179816056-a5e40a45-1b20-4fd2-9a17-1c0010635a35.png)
+![Screenshot 2022-07-10 225334](https://user-images.githubusercontent.com/78551786/179816058-18455281-abdb-49b4-a708-6f867ab1783b.png)
+![Screenshot 2022-07-10 225713](https://user-images.githubusercontent.com/78551786/179816061-52634d61-5137-4de7-a140-eb4043bc2f4e.png)
+![Screenshot 2022-07-10 225903](https://user-images.githubusercontent.com/78551786/179816064-91363d51-359e-49e2-b2bb-47071af46c97.png)
+![Sign in Screen](https://user-images.githubusercontent.com/78551786/179816065-228d16f8-fa4d-4bfb-a460-7f81d7d17c0a.png)
+![SignUp screen](https://user-images.githubusercontent.com/78551786/179816071-7c28859c-451c-4607-882c-bb1af7060e49.png)
+[SociaMediaApp.zip](https://github.com/vishvadeep-chauhan/SociaMediaApp/files/9143507/SociaMediaApp.zip)
